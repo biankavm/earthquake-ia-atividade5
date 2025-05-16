@@ -1,7 +1,9 @@
 ## Exercício de Rede Bayesiana - Inteligência Artificial 2025/1
 
 **Integrantes**:
+- Allan Carvalho
 - Bianka Vasconcelos
+- Luã Souza
 - Micael Viana
 - Vinicius Chagas
 
