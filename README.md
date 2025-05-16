@@ -1,11 +1,9 @@
 ### Exercício de Rede Bayesiana - Inteligência Artificial 2025/1
 
-Integrantes:
-Bianka Vasconcelos
-
-Micael Viana
-
-Vinicius Chagas
+**Integrantes**:
+- Bianka Vasconcelos
+- Micael Viana
+- Vinicius Chagas
 
 ## Objetivo
 Neste repositório realizamos a atividade de adicionar o earthquake (terremoto) na rede bayesiana abordada em sala de aula.
